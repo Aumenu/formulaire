@@ -1,0 +1,35 @@
+#identité {
+    border-radius: 1px;
+    background-color: dodgerblue;
+}
+
+#votre-identité {
+    background-color: dodgerblue;
+}
+
+#adresse {
+    border-radius: 1px;
+    background-color: blueviolet;
+}
+
+#Adresse-livraison {
+    background-color: blueviolet;
+}
+
+#zone-adresse {
+    width: 200px;
+    height: 100px;
+}
+
+#information {
+    background-color: fuchsia;
+}
+
+#information-reglement {
+    background-color: fuchsia;
+}
+#radio {
+    float: left;
+    margin-right: 3%;
+   
+}
